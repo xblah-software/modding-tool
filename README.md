@@ -8,11 +8,11 @@ A fantastic tool for creating and running mods. it's an extremely useful tool fo
 
 Automate the process of creating blank GoldSRC and Source mods. Easily create new chapters, with chapter images and chapter backgrounds, automatically install Hammer++, edit soundscapes, and much more. All of that in a single intuitive tool, with no scripting knowledge required. Create your mod, launch hammer, and that's it.
 
-[Download here](https://github.com/jean-knapp/xblah-modding-tool-public/releases/latest)
-
-Patrons have full access to the XBLAH's Modding Tool. 
+To support the active development of this software, access to the tool's GUI is only available for Patrons. If Patreon is blocked in your country, or you don't feel like contributing, legacy versions are available for free throughout the internet.
 
 [Become a Patron](https://www.patreon.com/xblah)
+
+[Download the tool here](https://github.com/jean-knapp/xblah-modding-tool-public/releases/latest)
 
 ![screenshot1](https://user-images.githubusercontent.com/81480122/207709199-5b7bf80d-24e4-4d12-8ccd-c484621b00f9.png)  |  ![screenshot2](https://user-images.githubusercontent.com/81480122/207709208-014adcd1-1fb1-4012-9382-722b93d8f498.png)  |  ![screenshot3](https://user-images.githubusercontent.com/81480122/207709212-285b2fa2-d0ef-4518-9594-f1e00c4c0888.png)
 ![screenshot4](https://user-images.githubusercontent.com/81480122/207709218-37fcf0a7-44b5-4d79-a715-d8d9e814e8db.png)  |  ![screenshot5](https://user-images.githubusercontent.com/81480122/207709221-f0b4a831-011a-43ea-b4d8-c582d7a962f0.png)  |  ![screenshot6](https://user-images.githubusercontent.com/81480122/207709228-85bf5e10-32bf-4113-a177-8371e782858b.png)
@@ -86,3 +86,6 @@ Patrons have full access to the XBLAH's Modding Tool.
 * External tools - the respective authors
 
 If you somehow contributed and are missing in this list, let me know.
+
+Disclaimer:
+The download file contains Third Party Tools, that are integrated through the GUI. These tools are available for download for free both in this repository and in their own. By no means they are behind a paywall, but Patrons have access to an automated installation and configuration of said tools, as well as shortcuts to them. If any authors believe their software shouldn't be distributed through the tool, let me know.
