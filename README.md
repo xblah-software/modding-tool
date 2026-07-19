@@ -23,3 +23,4 @@ Whether you're a seasoned modder or just starting out, this tool is designed to 
 
 ## Disclaimer
 The download file contains Third Party Tools, that are integrated through the GUI. These tools are available for download for free both in this repository and in their own. By no means they are behind a paywall, but Patrons have access to an automated installation and configuration of said tools, as well as shortcuts to them. If any authors believe their software shouldn't be distributed through the tool, let me know.
+
