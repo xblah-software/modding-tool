@@ -1,6 +1,10 @@
 # XBLAH's Modding Tool
 
-[https://xblah.dev/modding-tool](https://xblah.dev/modding-tool)
+This version is no longer being updated. Migrate to:
+
+https://github.com/xblah-software/modding-tool-v3/
+
+--------
 
 ### I build the tools
 ### You make the game
